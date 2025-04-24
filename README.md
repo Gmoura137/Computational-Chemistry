@@ -2,7 +2,7 @@
 
 ## Overview
 
-`MatrixPattern.py` is a Python script that generates a square matrix representing either a **linear** or **cyclical** connectivity pattern between elements. These matrices are commonly used in modeling systems in **quantum chemistry** and **solid-state physics** — particularly in **tight-binding models**.
+`MatrixPattern.py` is a Python script that generates a square matrix representing either a **linear** or **cyclical** connectivity pattern between elements. These matrices are commonly used in modeling systems in **quantum chemistry** and **solid-state physics** — particularly in **tight-binding models**. (It is also available in Java)
 
 ## How It Works
 
