@@ -35,3 +35,12 @@ In these contexts:
 
 For `n = 4` and `type = cyclical`, the generated matrix would be:
 
+Generated Matrix:
+0 1 0 1
+1 0 1 0
+0 1 0 1
+1 0 1 0
+
+Wolfram Code:
+{ { 0, 1, 0, 1}, { 1, 0, 1, 0}, { 0, 1, 0, 1}, { 1, 0, 1, 0} }
+
